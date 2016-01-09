@@ -55,6 +55,7 @@
 
 .bottomContainer {
   display: flex;
+  margin-top: 20px;
 }
 
 .leftBottom {
@@ -65,5 +66,13 @@
 
 .rightBottom {
   height: 150px;
-  background-color: 
+  background-color: #D0021B;
+  flex: 1;
+}
+
+.greyBox {
+  margin: 0 auto;
+  background-color: #4A4A4A;
+  width: 200px;
+  height:  150px;
 }
