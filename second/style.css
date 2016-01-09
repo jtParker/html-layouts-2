@@ -1,0 +1,106 @@
+.pageContainer {
+  width: 100%;
+  height: 100%;
+  background-color: #D8D8D8;
+  padding: 20px;
+
+}
+
+
+.textContainer {
+  margin: 0 auto 0 auto;
+  background-color: white;
+  height: 200px;
+  width: 800px;
+
+}
+
+.pText {
+  font-family: sans-serif;
+  line-height: 30px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.buttonContainer {
+  margin: 0 auto;
+  height: 100px;
+  width: 800px;
+  background-color: white;
+  display: flex;
+  justify-content: flex-start;
+
+}
+
+.buttonLeft {
+  height: 60px;
+  width: 150px;
+  border: none;
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  background-color: #D0021B;
+  margin: 20px 10px 20px 20px;
+}
+
+.buttonRight {
+  height: 60px;
+  width: 150px;
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  background-color: #4A90E2;
+  border: none;
+  margin: 20px 30px 20px 20px;
+
+}
+
+
+.centerContainer {
+  margin: 20px auto 0 auto;
+  height: 500px;
+  width: 800px;
+  background-color: white;
+  display: flex;
+
+}
+
+.imageTextContainer {
+  margin: 0 auto;
+  height: 250px;
+  width: 800px;
+  background-color: white;
+  display: flex;
+
+}
+
+.image {
+  margin: 0 auto;
+  padding: 20px;
+  flex: 1;
+}
+
+.footie {
+  width: 100%;
+  height: 50px;
+  padding-top: 40px;
+  background-color: #4A4A4A;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+}
+
+.footerText1 {
+  font-size: 15px;
+  font-family: sans-serif;
+  color: white;
+  margin: 10px 20px 50px 30px;
+}
+
+.footerText2 {
+  font-size: 15px;
+  font-family: sans-serif;
+  color: white;
+  margin: 10px 50px 50px 50px;
+}
